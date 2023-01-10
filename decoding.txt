@@ -14,7 +14,7 @@ Al verme llorar, lloraba
 Como el pino era tierno, llorona
 Al verme llorar, lloraba
 La pena y la que no es pena llorona
-Todo es pena para mí 
+Todo es pena para mí
 La pena y la que no es pena llorona
 Todo es pena para mí
 Ayer lloraba por verte llorona
@@ -32,3 +32,5 @@ No dejaré de quererte
 No dejaré de quererte
 No dejaré de quererte
 Ay, ay, ay, ¡a-jajaja!
+
+Time taken: 0.002152
