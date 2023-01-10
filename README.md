@@ -1,8 +1,8 @@
-# Arithemetic coding & Huffman coding
+# Arithmetic coding & Huffman coding
 
 ## Compile
 
-### Arithemetic coding
+### Arithmetic coding
     gcc -o arcd arcd.c arcd_stream.c adaptive_model.c arcd.h  adaptive_model.h
 
 ### Huffman coding
